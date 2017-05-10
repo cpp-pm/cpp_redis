@@ -36,8 +36,8 @@ include(${CMAKE_ROOT}/Modules/ExternalProject.cmake)
 
 include("cmake/HunterGate.cmake")
 HunterGate(
-  URL "https://github.com/szatan/hunter/archive/v0.18.44.tar.gz"
-  SHA1 "3d37dd363bd78315d399dfa176a5f1a20bec779d"
+    URL "https://github.com/ruslo/hunter/archive/v0.18.50.tar.gz"
+    SHA1 "86e2e319c17ce45360179143c2ab69617126974e"
 )
 
 ###
